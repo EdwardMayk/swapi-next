@@ -6,7 +6,7 @@ Pimero instalar dependecias
 yarn
 ```
 
-Luego generar tu env
+Luego generar el env
 ```sh
 cp .env.example .env
 ```
