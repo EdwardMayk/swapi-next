@@ -8,7 +8,7 @@ yarn
 
 Luego generar tu env
 ```sh
- cp .env.example .env
+cp .env.example .env
 ```
 
 Levantar:
